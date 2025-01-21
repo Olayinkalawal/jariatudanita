@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Jariatu Danita
+
+A modern fashion influencer portfolio website built with Next.js, TypeScript, and Tailwind CSS.
+
+## Features
+- Responsive design
+- Image gallery with lightbox
+- Shop section with external links
+- Dark/Light mode support
+- Mobile-friendly navigation
+
+## Tech Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn/ui
+- Framer Motion
 
 ## Getting Started
 
