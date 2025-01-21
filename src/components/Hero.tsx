@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 export function Hero() {
   return (
-    <section id="hero" className="pt-2 pb-24">
+    <section id="hero" className="relative pt-2 pb-24">
       <div className="animation-delay-8 animate-fadeIn flex flex-col items-center justify-center px-4 text-center">
         <div className="z-10 mb-6 mt-2 sm:justify-center md:mb-4 md:mt-4">
         </div>
@@ -14,10 +14,6 @@ export function Hero() {
           <div className="px-2">
             <div className="relative mx-auto h-full max-w-7xl p-6 md:px-12 md:py-20">
               <h1 className="flex select-none flex-col px-3 py-2 text-center text-5xl font-semibold leading-none tracking-tight md:flex-col md:text-8xl lg:flex-row lg:text-8xl">
-                <span className="text-primary absolute -left-5 -top-5 h-10 w-10">✨</span>
-                <span className="text-primary absolute -bottom-5 -left-5 h-10 w-10">✨</span>
-                <span className="text-primary absolute -right-5 -top-5 h-10 w-10">✨</span>
-                <span className="text-primary absolute -bottom-5 -right-5 h-10 w-10">✨</span>
                 Fashion Influencer & Style Guide
               </h1>
               <div className="flex items-center justify-center gap-2 mt-10">
