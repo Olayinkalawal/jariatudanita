@@ -17,7 +17,7 @@ const sections = [
     links: [
       { name: "Amazon Shop", href: "https://www.amazon.com/shop/jariatudanita" },
       { name: "LTK", href: "https://www.shopltk.com/explore/jariatudanita" },
-      { name: "Urban Revivo", href: "https://urbanrevivo.com/collections/best-sellers-nv030000?utm_content=jariatudanita" },
+      { name: "Shop My", href: "https://shopmy.us/jariatudanita" },
     ],
   },
   {

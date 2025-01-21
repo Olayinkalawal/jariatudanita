@@ -15,8 +15,8 @@ const shopItems = [
   },
   { 
     id: "3", 
-    text: "Urban Revivo",
-    href: "https://urbanrevivo.com/collections/best-sellers-nv030000?utm_content=jariatudanita"
+    text: "Shop My",
+    href: "https://shopmy.us/jariatudanita"
   },
   { 
     id: "4", 
@@ -30,8 +30,8 @@ const shopItems = [
   },
   { 
     id: "6", 
-    text: "Urban Revivo",
-    href: "https://urbanrevivo.com/collections/best-sellers-nv030000?utm_content=jariatudanita"
+    text: "Shop My",
+    href: "https://shopmy.us/jariatudanita"
   },
   { 
     id: "7", 
