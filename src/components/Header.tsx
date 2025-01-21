@@ -44,7 +44,7 @@ const Header = () => {
   };
 
   return (
-    <section className="py-4 lg:relative fixed top-0 left-0 right-0 bg-background/80 backdrop-blur-sm z-50">
+    <section className="py-3 fixed top-0 left-0 right-0 bg-background/80 backdrop-blur-sm z-50">
       <div className="px-4">
         <nav className="hidden justify-between lg:flex">
           <div className="flex w-full items-center justify-between">
