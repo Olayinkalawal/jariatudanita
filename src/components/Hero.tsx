@@ -5,9 +5,9 @@ import { Button } from "@/components/ui/button";
 
 export function Hero() {
   return (
-    <section id="hero" className="py-24">
+    <section id="hero" className="pt-2 pb-24">
       <div className="animation-delay-8 animate-fadeIn flex flex-col items-center justify-center px-4 text-center">
-        <div className="z-10 mb-6 mt-10 sm:justify-center md:mb-4 md:mt-20">
+        <div className="z-10 mb-6 mt-2 sm:justify-center md:mb-4 md:mt-4">
         </div>
 
         <div className="mb-10 mt-4 md:mt-6">
